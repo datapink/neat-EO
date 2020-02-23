@@ -8,7 +8,7 @@ Laconic long-version:
 To avoid any issue related to US Export Administration Regulations,
 we removed neat-EO and former RoboSat.pink repositories, from GitHub (and PyPi).
 
-Public <a href="https://neat-EO.pink">neat-EO</a> project, is hence on <a href="https://datapink.io">our gitea</a>, under French laws.
+Public <a href="https://neat-EO.pink">neat-EO</a> project, is still alive on <a href="https://datapink.io">our gitea</a>
 
 
 Sources:
